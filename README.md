@@ -5,7 +5,7 @@
 **Data:** UPI Transactions Dataset  
 **Records:** 20,000 transactions | 2024  
 **Portfolio:** [View Portfolio](https://www.notion.so/Emmanuel-Nwankwo-Data-AI-Automation-Portfolio-34d2848d0dba80bd9f6fc5fd419f3c63)  
-**Tableau Public:** [View Live Dashboard](your-tableau-public-url)  
+**Tableau Public:** [View Live Dashboard](https://public.tableau.com/app/profile/emmanuel.nwankwo1535/viz/Tableau_Dashboard_2_17885995570090/Dashboard1?publish=yes)  
 **GitHub:** [github.com/Emmapluz](https://github.com/Emmapluz)
 
 ---
