@@ -61,7 +61,7 @@ All five filters applied to all worksheets:
 
 **Finding 1 — Age Group 3 dominates**
 Customers aged 36+ make 12,000 
-transactions — 4x more than 
+transactions, which is 4x more than 
 Age Group 1 (under 25) at 3,000.
 
 **Finding 2 — Delhi leads transaction value**
@@ -73,7 +73,7 @@ across all four cities.
 **Finding 3 — Payment methods evenly distributed**
 Phone Number, QR Code and UPI ID 
 show near-identical transaction 
-volumes across all five merchants — 
+volumes across all five merchants, and 
 no single method dominates.
 
 **Finding 4 — Merchants equally preferred**
