@@ -28,7 +28,7 @@ by payment method and merchant, and card
 visuals showing transactions by age group.
 
 This is the second Tableau dashboard in 
-my portfolio — built on the same UPI 
+my portfolio, which is built on the same UPI 
 dataset previously analysed in Power BI, 
 demonstrating how the same data tells 
 different stories across different tools.
@@ -79,7 +79,7 @@ no single method dominates.
 **Finding 4 — Merchants equally preferred**
 Amazon, Flipkart, IRCTC, Swiggy 
 and Zomato all show similar 
-transaction volumes — no single 
+transaction volumes, and no single 
 merchant dominates across any 
 payment method.
 
